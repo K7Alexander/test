@@ -5,7 +5,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import './index.css';
 
 const router = createBrowserRouter([
-  { path: '/', element: <App />, errorElement: <div>ERROR</div> },
+  { path: '/test', element: <App />, errorElement: <div>ERROR</div> },
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
