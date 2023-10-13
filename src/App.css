@@ -21,3 +21,8 @@ button {
   display: flex;
   justify-content: space-around;
 }
+
+.outlet {
+  margin-top: 5rem;
+  background-color: violet;
+}
