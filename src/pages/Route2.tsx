@@ -1,7 +1,7 @@
 const Route2: React.FC = () => {
   return (
     <>
-      <div>hello - this is route2</div>
+      <div>Hello - this is route 2.</div>
     </>
   );
 };
