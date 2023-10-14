@@ -13,7 +13,8 @@
   grid-area: header;
   background-color: rgb(242, 242, 217);
   display: flex;
-  justify-content: center;
+  justify-content: start;
+  padding-left: 3.5rem;
 }
 .main {
   grid-area: main;
